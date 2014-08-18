@@ -37,7 +37,6 @@ Relative genome sizes are from the supplemental of the Chia et al. 2012 Nature G
 * bwafix.sh: Aligns data, converts to bam, rmdup
 * catfq.sh: Merges bam files from different runs of the same maize line
 * get_mapping.sh: Uses Paul's perl script to get mapping data
-* get_mapping_2.sh: Second part of the above
 * parsesam.pl: Paul's script
 * gsize.R: Maps regression and gives correlation in R
 
@@ -77,7 +76,7 @@ Taken directly from jrossibarra:
 
 "Then we get mapping data (this uses Paul's script and assumes single end reads). May need to tweak headers and list of files names for this script to get it to run appropriately too."
 
-Use the get_mapping.sh script, then the get_mapping_2.sh script. (Uses the parsesam.pl script)
+Use the get_mapping.sh script (Uses the parsesam.pl script)
 
 #### Find set of "good" genes
 
