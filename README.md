@@ -33,6 +33,8 @@ Relative genome sizes are from the supplemental of the Chia et al. 2012 Nature G
 
 ####Scripts dir
 
+WARNING: not all bash arrays complete, so the array number doesn't match the file number.  Should give you the idea, though.
+
 * bwa.sh: First attempt.  Gets percent mapping without correction for TE noise
 * bwafix.sh: Aligns data, converts to bam, rmdup
 * catfq.sh: Merges bam files from different runs of the same maize line
