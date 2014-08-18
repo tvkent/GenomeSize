@@ -1,6 +1,6 @@
 ##GenomeSize
 
-###Will continue to finish, but enough is here to copy the pipeline
+###Note: Will continue to finish, but enough is here to copy the pipeline
 
 Failed attempt to predict genome size with GBS sequencing data
 
