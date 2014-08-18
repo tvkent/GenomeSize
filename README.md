@@ -1,5 +1,7 @@
 ##GenomeSize
 
+###Will continue to finish, but enough is here to copy the pipeline
+
 Failed attempt to predict genome size with GBS sequencing data
 
 ###Plan
@@ -16,7 +18,8 @@ Tried this same thing here using Hapmap2 GBS data to map to maize cDNA.  Our sus
 
 GBS data failed miserably with a maximum correlation of ~.2.  Documenting this pipeline for future use in case we figure something out, and it can be applied to different kinds of sequencing data.
 
-Had problems with some SRA files so not all maize lines end up in the 
+Had problems with some SRA files so not all maize lines end up in the scripts and results.
+
 
 ###Files
 
